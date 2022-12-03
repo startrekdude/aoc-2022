@@ -8,4 +8,5 @@ Organized in a fairly self-explanatory way; `01` has the first day and so on. My
 | ----- | ---------- | ---------- |
 | Day 1 | `00:02:30` | `00:03:25` |
 | Day 2 | `00:11:28` | `00:13:52` |
+| Day 3 | `00:03:51` | `00:06:47` |
 
