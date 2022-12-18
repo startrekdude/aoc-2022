@@ -23,4 +23,5 @@ Organized in a fairly self-explanatory way; `01` has the first day and so on. My
 | Day 15 | `00:15:43` | `00:40:24` |
 | Day 16 | `04:06:04` | `10:09:10` |
 | Day 17 | `00:58:01` | `01:45:21` |
+| Day 18 | `00:03:55` | `00:16:23` |
 
