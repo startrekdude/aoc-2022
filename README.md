@@ -27,4 +27,7 @@ Organized in a fairly self-explanatory way; `01` has the first day and so on. My
 | Day 19 | `00:56:28` | `01:34:16` |
 | Day 20 | `02:04:19` | `04:25:15` |
 | Day 21 | `00:11:16` | `00:35:20` |
+| Day 22 | `00:24:38` | `>24h`     |
+| Day 23 | `00:35:31` | `00:41:05` |
+| Day 24 | `00:35:48` | `00:47:01` |
 
